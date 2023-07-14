@@ -1,0 +1,4 @@
+data/
+backpropagation.py
+scheduler.py
+training.py
